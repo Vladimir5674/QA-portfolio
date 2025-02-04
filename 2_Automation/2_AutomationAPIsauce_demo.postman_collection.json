@@ -1,0 +1,23 @@
+{
+  "info": {
+    "name": "Sauce Demo API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "urlencoded",
+          "urlencoded": [
+            {"key": "user-name", "value": "standard_user"},
+            {"key": "password", "value": "secret_sauce"}
+          ]
+        },
+        "url": "https://www.saucedemo.com/login"
+      }
+    }
+  ]
+}
