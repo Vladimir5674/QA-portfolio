@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-Проект демонстрирует навыки ручного и автоматизированного тестирования веб-приложения [Sauce Demo](https://www.saucedemo.com/).
-
 ## Структура проекта
 
-sauce-demo-testing/
-├── 1_Test_Documentation/
-├── 2_Automation/
-├── 3_Reports/
-├── README.md
-└── requirements.txt
+sauce-demo-testing
+- 1_Test_Documentation
+- 2_Automation
+- 3_Reports
+- README.md
+- requirements.txt
 
 
 ## Технологии
@@ -20,6 +17,4 @@ sauce-demo-testing/
 1. Установите зависимости: `pip install -r requirements.txt`
 2. Для UI-тестов: `pytest 2_Automation/Web_UI/`
 3. Отчет Allure: `allure serve 3_Reports/Allure_Report/`
-=======
-# QA-portfolio
->>>>>>> ced809545fe532b734d215298ac21bca0bdbac4a
+
