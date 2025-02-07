@@ -1,11 +1,11 @@
 ## Структура проекта
 
-sauce-demo-testing/
-├── 1_Test_Documentation/
-├── 2_Automation/
-├── 3_Reports/
-├── README.md
-└── requirements.txt
+# sauce-demo-testing
+- 1_Test_Documentation
+- 2_Automation
+- 3_Reports
+- README.md
+- requirements.txt
 
 
 ## Технологии
